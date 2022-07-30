@@ -436,7 +436,7 @@ before_install:
 {: data-file=".travis.yml"}
 
 
-## Neo4j
+## <a href=https://neo4j.com/>Neo4j</a>
 
 Start Neo4j in your `.travis.yml`:
 
